@@ -2,7 +2,7 @@
 /**
  * Setup configuration bootstrap
  *
- * Don't worry about this file. It is irrelevant for the actual system
+ * Don't fear about this file. It is irrelevant for the actual system
  * and is only used for the first setup.
  */
 
